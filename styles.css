@@ -1,0 +1,92 @@
+
+
+.pand-card{
+
+border: 1px solid gray;
+border-radius: 2em;
+box-shadow: 3px 3px gray;
+float: left;
+width: 300px;
+padding:  5px;
+margin: 1em;
+background-color: lightgray;
+
+}
+
+.panda-container{
+    border: 0.5px solid gray;
+    border-radius: 2em;
+    padding:  4px;
+  
+}
+.whale-card{
+
+    border: 1px solid rgb(33, 134, 171);
+    border-radius: 2em;
+    box-shadow: 3px 3px rgb(25, 156, 154);
+    background-color: rgb(17, 130, 130);
+    float: left;
+    width: 300px;
+    padding:  5px;
+    margin: 1em;
+    float: left;
+   
+
+
+    }
+    .whale-container{
+        border: 0.5px solid gray;
+        border-radius: 2em;
+        padding:  4px;
+      
+    }
+    .owl-card{
+
+        border: 1px solid white;
+        border-radius: 2em;
+        box-shadow: 3px 3px rgb(174, 174, 174);
+        background-color: rgb(249, 244, 233);
+        float: left;
+        width: 300px;
+        padding:  5px;
+        margin: 1em;
+        float: left;
+    
+
+
+        }
+        .owl-container{
+            border: 0.5px solid gray;
+            border-radius: 2em;
+            padding:  4px;
+          
+        }
+
+
+
+
+h3{
+text-decoration: underline;
+text-decoration: light gray;
+text-align: center;
+
+}
+img{
+
+    border-radius: 2.5em;
+    width: 300px;
+    height: 350px;
+}
+
+#Pstyle{
+font-style: italic;
+
+}
+ul{  
+list-style: none;
+padding: 0 10px;
+}
+span{
+font-weight: bold;
+
+}
